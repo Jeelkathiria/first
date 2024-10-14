@@ -1,4 +1,4 @@
 # first
 This is my first Git Repository
 <br>
-Author: Jeel Kathiria
+Author: Jeel Bipin Kathiria 
